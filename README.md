@@ -3,4 +3,4 @@ The contents of this repo is the code for a computer vision model for tracking t
 The data collected involved a video files of a few games of scrabble. This can be accessed via the link below
 https://unisydneyedu-my.sharepoint.com/:f:/g/personal/skot8234_uni_sydney_edu_au/EvH6nF1BPTFMr1bBu_tptk4BvPyMcRpz27kBkZZ_fmEkWw?e=OXFb3a
 
-Only codes required are the ENABLE.txt (Scrabble dictionary) and the Full_Scrabble_Code.ipynb
+Only codes required are the enable.txt (Scrabble dictionary) and the Full_Scrabble_Code.ipynb
